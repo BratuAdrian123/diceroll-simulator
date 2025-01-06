@@ -67,4 +67,3 @@ function rollDice() {
 
 rollBtn.addEventListener('click', rollDice);
 
-// rollDice();
